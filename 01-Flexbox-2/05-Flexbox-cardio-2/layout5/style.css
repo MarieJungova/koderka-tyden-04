@@ -20,3 +20,19 @@ nav {
 /* -------------------------------------------- */
 
 
+
+.uprostred{
+	display: flex;
+}
+
+nav{
+	flex-basis: 20%;
+}
+
+article{
+	flex-basis: 60%;
+}
+
+aside{
+	flex-basis: 20%;
+}
