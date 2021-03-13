@@ -19,4 +19,24 @@ nav {
 /* tady piš svoje CSS */
 /* -------------------------------------------- */
 
+.main{
+	display: flex;
+}
 
+.clanek{
+	flex: 0 1 60%;
+	padding-bottom: 40px;
+
+}
+
+.sidebar,
+.menu{
+	flex-basis: 20%;
+	padding-bottom: 40px;
+}
+
+header,
+footer{
+	padding-bottom: 20px;
+
+}
