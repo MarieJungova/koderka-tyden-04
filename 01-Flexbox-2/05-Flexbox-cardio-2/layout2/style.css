@@ -20,3 +20,27 @@ nav {
 /* -------------------------------------------- */
 
 
+.celek{
+	display: flex;
+}
+
+.levy{
+	flex: 1 0 20%;
+}
+
+
+.pravy{
+	flex: 4 0 80%;
+}
+
+.uprostred{
+	display: flex;
+}
+
+article{
+	flex: 3 0 auto;
+}
+
+aside{
+	flex: 1 0 auto;
+}
