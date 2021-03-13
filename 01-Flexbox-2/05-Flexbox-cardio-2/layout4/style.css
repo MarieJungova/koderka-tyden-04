@@ -20,3 +20,28 @@ nav {
 /* -------------------------------------------- */
 
 
+.celek{
+	display: flex;
+}
+
+nav{
+	flex-basis: 20%;
+}
+
+.prava{
+	flex-basis: 80%;
+}
+
+.pravadole{
+	display: flex;
+}
+
+.prostredek{
+	flex-direction: column;
+	flex: 3 0 auto;
+}
+
+aside{
+	flex: 1 0 auto;
+}
+
