@@ -20,3 +20,28 @@ nav {
 /* -------------------------------------------- */
 
 
+.celek{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+header{
+	flex-basis: 100%;
+}
+
+nav{
+	flex-basis: 20%;
+}
+
+article{
+	flex-basis: 60%;
+}
+
+aside{
+	flex-basis: 20%;
+}
+
+footer{
+	flex-basis: 100%;
+
+}
