@@ -20,3 +20,16 @@ nav {
 /* -------------------------------------------- */
 
 
+.celek{
+	display: flex;
+
+}
+
+nav{
+	flex-basis: 20%;
+
+}
+
+.prava{
+	flex-basis: 80%;
+}
